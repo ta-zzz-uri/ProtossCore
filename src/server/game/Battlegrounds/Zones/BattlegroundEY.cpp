@@ -263,6 +263,10 @@ void BattlegroundEY::UpdatePointStatuses()
                     if (m_PointState[point] == EY_POINT_UNDER_CONTROL && plr->GetTeam() != m_PointOwnedByTeam[point])
                         this->EventTeamLostPoint(plr, point);
                 }
+                if (point == FEL_REAVER && m_PointOwnedByTeam[point] == plr->GetTeam())
+                    if (m_FlagState && GetFlagPickerGUID() == plr->GetGUID())
+                        if (plr->GetDistance2d(2044,1730) < 2)
+                            EventPlayerCapturedFlag(plr, BG_EY_OBJECT_FLAG_FEL_REAVER);
             }
         }
     }
