@@ -1,0 +1,39 @@
+Todolist (edit if done. name of the woorking dev after the quest)
+
+-----------------------[Scripts]
+-Merge Skyfire if updates are aviable [Dreadii]
+-Rewrite Base scripts by Asardial. (GrimBatol, Halls of Origins, Lost City of the TolVir, Vortex Pinnacle, Throne of the Tides, Blackwing Descent) [Dreadii]
+-add instance scripts and event to cataclysm dungeons
+-Add working currency drop system
+-More work on Gilneas
+-More work on Kezan
+-add LFG datas to dungeon finder
+-add Wintergrasp
+-add TolBarad
+-add old chaoscore ulduar scripts
+-add and rewrite latest icc script for skyfire
+-fix class spells
+-fix more talents
+-script quests who need c++ support
+-cleanup some codes to reduce memory leaks
+
+
+
+-----------------------[SQL]
+-add DB support for the rewritten scripts in future
+-sniff and spawn more gilneas and kezan datas
+-remove nonblizzlike spawns and add blizzlike
+-kill more startup errors
+-fix quests who need sql support
+
+
+
+
+-----------------------[Other stuff]
+-recuit more devs to the project  [Dreadii]
+-find more instance script for cata [Dreadii]
+
+
+-----------------------[DevNotes]
+-Umbriss soweit einsatzbereit. feinheiten kommen erst nach dem maincontent...
+-alle script alleine neu schreiben wird ne pain für mich sein :O brauch drigends verstärkung...
