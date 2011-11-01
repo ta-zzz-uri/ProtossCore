@@ -37,3 +37,9 @@ Todolist (edit if done. name of the woorking dev after the quest)
 -----------------------[DevNotes]
 -Umbriss soweit einsatzbereit. feinheiten kommen erst nach dem maincontent...
 -alle script alleine neu schreiben wird ne pain für mich sein :O brauch drigends verstärkung...
+
+
+---------------------------[Already Done]
+-implement running wild
+-add pvp currency system (need still work)
+-implement chakra talent of priest
