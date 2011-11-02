@@ -237,7 +237,6 @@ void AddSC_boss_hazzarah();
 void AddSC_boss_renataki();
 void AddSC_boss_wushoolay();
 void AddSC_instance_zulgurub();
-void AddSC_boss_general_umbriss();			//GrimBatol
 
 //void AddSC_alterac_mountains();
 void AddSC_arathi_highlands();
@@ -587,6 +586,7 @@ void AddSC_instance_halls_of_origination();     //Halls of Origination
 void AddSC_boss_temple_guardian_anhuur();
 void AddSC_boss_earthrager_ptah();
 void AddSC_boss_anraphet();
+void AddSC_boss_isiset();
 void AddSC_instance_baradin_hold();             //Baradin Hold
 void AddSC_boss_argaloth();
 void AddSC_lost_city_of_the_tolvir();           //The Lost City of the Tol'vir
@@ -595,6 +595,7 @@ void AddSC_boss_lockmaw();
 void AddSC_boss_high_prophet_barim();
 void AddSC_instance_the_vortex_pinnacle();      //The Vortex Pinnacle
 void AddSC_instance_grim_batol();               //Grim Batol
+void AddSC_boss_general_umbriss();
 void AddSC_instance_throne_of_the_tides();      //Throne of the Tides
 void AddSC_instance_blackrock_caverns();        //Blackrock Caverns
 
@@ -862,7 +863,6 @@ void AddEasternKingdomsScripts()
     AddSC_boss_renataki();
     AddSC_boss_wushoolay();
     AddSC_instance_zulgurub();
-	AddSC_boss_general_umbriss();			//GrimBatol
 
     //AddSC_alterac_mountains();
     AddSC_arathi_highlands();
@@ -1224,6 +1224,7 @@ void AddNorthrendScripts()
     AddSC_boss_temple_guardian_anhuur();
     AddSC_boss_earthrager_ptah();
     AddSC_boss_anraphet();
+    AddSC_boss_isiset();
     AddSC_instance_baradin_hold();             //Baradin Hold
     AddSC_boss_argaloth();
     AddSC_lost_city_of_the_tolvir();           //Lost City of the Tol'vir
@@ -1232,6 +1233,7 @@ void AddNorthrendScripts()
     AddSC_boss_high_prophet_barim();
     AddSC_instance_the_vortex_pinnacle();      //The Vortex Pinnacle
     AddSC_instance_grim_batol();               //Grim Batol
+    AddSC_boss_general_umbriss();
     AddSC_instance_throne_of_the_tides();      //Throne of the Tides
     AddSC_instance_blackrock_caverns();        //Blackrock Caverns
 
